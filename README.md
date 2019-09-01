@@ -1,6 +1,10 @@
 chinese calendar
 ================
 
+2019-09 imper0502 修改自用，翻譯by opencc
+
+
+
 This extension mainly adds the following extra features:
   - Chinese localizations
   - Display holiday, lunar(农历), horoscope(星座), zodiac(属相、十二生肖), solar term(节气) info on mode line
